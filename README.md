@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prasanjeet Barik</h1>
+<h1 align="center">Hi 👋 World, I'm Prasanjeet Barik</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barikprasanjeet43-create&label=Profile%20views&color=0e75b6&style=flat" alt="barikprasanjeet43-create" /> </p>
@@ -9,7 +9,11 @@
 
 - 🌱 I’m currently learning **data analyst**
 
+- 💬 Ask me about **Data analysis**
+
 - 📫 How to reach me **barikprasanjeet43@gmail.com**
+
+- ⚡ Fun fact **I am a funny guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barikprasanjeet43-create&show_icons=true&locale=en" alt="barikprasanjeet43-create" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barikprasanjeet43-create&" alt="barikprasanjeet43-create" /></p>
+?
 
